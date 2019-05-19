@@ -8,6 +8,6 @@
 
 目前操作有：
 1. 空间模型的细化。
-2. 体数据的MarchingCubes算法。
+2. 体数据的MarchingCubes算法(先采用函数构造体数据，然后再转化为OBJ表示)。
 
 如果有任何问题请联系EMail:sunhaoxx@foxmail.com
